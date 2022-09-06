@@ -68,7 +68,7 @@
 
 ![](https://raw.githubusercontent.com/wobisheng/easy_mongodb_install/main/15.jpg)
 
-### 3.关机后mongodb server重启方法: 找到之前点击的mongod文件，右键，创建快捷方式，然后把快捷方式拖到桌面上，下次要用时，双击其动即可![](https://raw.githubusercontent.com/wobisheng/easy_mongodb_install/main/16.jpg)
+### 3.关机后mongodb server重启方法: 找到之前点击的mongod文件，右键，创建快捷方式，然后把快捷方式拖到桌面上，下次要用时，双击启动即可![](https://raw.githubusercontent.com/wobisheng/easy_mongodb_install/main/16.jpg)
 
 ## 三.管理数据库
 
